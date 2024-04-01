@@ -1,0 +1,32 @@
+.postedblog{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    
+}
+
+.w3-content {
+    max-width: 1280px !important;
+}
+/* admin section */
+.blogcreation{
+    display: flex;
+    justify-content: space-between;
+    padding: 60px;
+}
+ input{
+    width: 500px;
+    height: 50px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.blogpreview{
+    width: 500px;
+}
+.admin{
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    padding: 10px;
+}

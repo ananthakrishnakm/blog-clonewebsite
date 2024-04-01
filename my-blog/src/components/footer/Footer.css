@@ -1,0 +1,13 @@
+.footerdetailes{
+    color: #fff!important;
+    background-color: #616161!important;
+    padding-top: 32px;
+    padding-bottom: 32px;
+   
+}
+.footerbtn{
+    display: flex;
+    gap: 10PX;
+}
+
+

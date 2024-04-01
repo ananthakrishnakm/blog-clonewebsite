@@ -1,0 +1,72 @@
+.blogs{
+padding: 10px;
+margin-top: 30px;
+box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+
+
+}
+img{
+    width: 100%;
+}
+.postedblog{
+padding: 10px;
+display: flex;
+justify-content:space-between;
+
+    
+}
+.blogs{
+    margin-top: 10px;
+}
+
+.commentsection{
+    display: flex;
+justify-content: end;
+gap: 10px;
+font-size: large;
+}
+
+.postfooter{
+display: flex;
+justify-content: space-between;
+}
+
+.blogs h5{
+
+margin-bottom: 30px;
+}
+.blogs h1{
+    margin-top: 5px;
+}
+
+.commentcount p{
+    background-color: black;
+    color: white;
+    width: 20px;
+    height: 25px;
+    border-radius: 40px;
+ display: flex;
+ justify-content: center;
+}
+
+.footerbtn{
+    background-color: none;
+    color: black;
+    margin-bottom: 15px;
+     align-items: center;
+     padding: 5px 25px;
+     font-weight: 500;
+}
+.blogsection{
+    width: 70%;
+}
+
+.commentsection{
+    display: none;
+}
+.blogs img{
+    width: 840px;
+    height: 300px;
+    object-fit: cover;
+}
+
